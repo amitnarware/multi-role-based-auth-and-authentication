@@ -1,0 +1,5 @@
+  1..GIT CLONE
+  2...npm install
+ 3... ----Database name -Authentication
+  create database in mysql  name Authentication
+  4.----Run   in terminal  ----   node server.js
